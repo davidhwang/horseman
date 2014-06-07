@@ -2,13 +2,13 @@
 
 ## A Manifesto
 
-- We want to build a Drupal that is not only friendly to designers and front-end developers, but rather a _preferred_ choice.
+- We want Drupal to be the _preferred_ backend content management system for designers and front end developers.
 
-- We believe that Drupal's main strengths lie in the power and flexibility of its backend, and that its primary value to users is the ability to architect and display complex content models.
+- We believe that Drupal's main strengths lie in the power and flexibility of its backend; its primary value to users is the ability to architect and display complex content models.
 
 - We believe that client-side front end frameworks are the future of the web
 
-- It is critically important for Drupal to be services oriented first, not HTML oriented first, or risk becoming irrelevant. 
+- It is critically important for Drupal to be services oriented first, not HTML oriented first, or risk becoming irrelevant.
 
 ===
 
