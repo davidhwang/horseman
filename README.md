@@ -1,3 +1,5 @@
+![Headless Drupal](http://davidhwang.github.io/horseman/logo.svg)
+
 ## A Manifesto
 
 - We want to build a Drupal that is not only friendly to designers and front-end developers, but rather a _preferred_ choice.
