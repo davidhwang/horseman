@@ -6,7 +6,7 @@
 
 - We believe that client-side front end frameworks are the future of the web
 
-- It is critically important for Drupal to provide a decoupled front-end in order to better interoperate with the front end frameworks of today and tomorrow, or risk becoming irrelevant. 
+- It is critically important for Drupal to be services oriented first, not HTML oriented first, or risk becoming irrelevant. 
 
 ===
 
