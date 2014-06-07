@@ -1,4 +1,4 @@
-![Headless Drupal](http://davidhwang.github.io/horseman/logo.svg)
+![Headless Drupal](http://davidhwang.github.io/horseman/logo.min.svg)
 
 ## A Manifesto
 
