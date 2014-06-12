@@ -4,7 +4,7 @@ In order for Drupal to be able to sustain both a decoupled front-end and an in-D
 
 ## RESTful Data Model
 
-The first step towards creating a system where a Drupal generated front-end and an API driven front-end is to make both of them driven by an identical, presentation independent data model. Our current data model is a fucking mess, from render arrays to magically passed around variables (better known as the hook system) to infinitely recursive structures, it's almost a miracle that front-end developers can produce *anything* with Drupal. Sometimes the template we want to use is in one place, sometimes it's in another. There are incorporeal additions to our data structures that manifest within unknown parts of the stack and more often than not are tied directly to HTML presentation. **This Shit Needs To Stop**.
+The first step towards creating a system where a Drupal generated front-end and an API driven front-end is to make both of them driven by an identical, presentation independent data model. Our current data model is messy and less structured than ideal, from render arrays to magically passed around variables (better known as the hook system) to infinitely recursive structures, it's almost a miracle that front-end developers can produce *anything* with Drupal. Sometimes the template we want to use is in one place, sometimes it's in another. There are incorporeal additions to our data structures that manifest within unknown parts of the stack and more often than not are tied directly to HTML presentation. The future of Drupal depends on stopping this practice.
 
 Instead, our data models should adhere to the following guidelines:
 
